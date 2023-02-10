@@ -1,17 +1,10 @@
-# <Your-Project-Title>
+# <Bootcamp Prework study guide webpage>
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This Prework Study Guide was created to help me begin to understand the baiscs of HTML, CSS, JavaScript, and Git. This study guide contains the structure for I what I understood as the beginning of coding.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -20,23 +13,18 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+To use this Prework Study Guide, you can review the notes in each section. There are four different sections conationg details about: HTML, CSS, Git, and JavaScript. If you use the "inspect" tool on the study guide application and go to "console" you will see the functioning JavaScript in action. You can also use the console as a guide to suggest what section to study first or you can go in order as they are on the page!
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
 ![alt text](assets/images/screenshot.png)
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+N/A
 
 ## License
 
