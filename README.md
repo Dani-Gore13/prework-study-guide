@@ -20,7 +20,6 @@ N/A
 To use this Prework Study Guide, you can review the notes in each section. There are four different sections conationg details about: HTML, CSS, Git, and JavaScript. If you use the "inspect" tool on the study guide application and go to "console" you will see the functioning JavaScript in action. You can also use the console as a guide to suggest what section to study first or you can go in order as they are on the page!
 
 
-![alt text](assets/images/screenshot.png)
 
 ## Credits
 
